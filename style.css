@@ -95,7 +95,7 @@ body::after {
 
   75% {
     z-index: -1;
-    transform: scale(0.4) translateX(-25vw) translateY(30px);
+    transform: scale(0.4) translateX(-60vw) translateY(30px);
   }
   100% {
     transform: translateX(0);
