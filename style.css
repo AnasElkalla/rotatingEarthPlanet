@@ -22,7 +22,7 @@ body {
 }
 .earth {
   background: url("flat_earth03.jpg");
-  background-size: 0.03%;
+  background-size: contain;
   background-repeat: repeat-x;
   height: 100%;
   width: 300000vw;
