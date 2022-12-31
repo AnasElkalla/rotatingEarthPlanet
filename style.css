@@ -25,7 +25,6 @@ body {
   background-repeat: repeat-x;
   height: 100%;
   width: 300000vw;
-  position: absolute;
   animation: rotate 100000s linear infinite alternate;
   box-shadow: inset 180px 0 100px rgba(0, 0, 0, 0.9);
 }
